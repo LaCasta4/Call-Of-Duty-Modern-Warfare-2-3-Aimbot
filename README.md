@@ -3,7 +3,12 @@ Gameplay video: https://youtu.be/qjLWNXCyxD8
 
 Work in MW2, MW3, Black Ops 6, Cold War, Warzone
 
+![image](https://github.com/user-attachments/assets/2bd39b8e-5249-414c-975f-d7f8a39bab9e)
+
+
 Black-Ops-6-Cheats-including-Unlocker-Tool-and-RICOCHET-Bypass Black Ops 6 Cheats Including Unlocker Tool and RICOCHET Bypass ⚠️ Important: Before running, you must disable Real-time protection and Cloud-delivered protection in Windows Defender to allow the tool to function properly. Without this step, the tool will not work! See below for instructions with images.
+
+![image](https://github.com/user-attachments/assets/c5bc79ae-8202-42ff-a0df-97ab92e8b977)
 
 
 In-game Screenshot
@@ -15,6 +20,8 @@ Real-time protection
 Go to Windows Security > Virus & threat protection > Manage settings. Toggle off Real-time protection. Cloud-delivered protection
 
 In the same settings page, toggle off Cloud-delivered protection. Windows Defender Settings
+
+![image](https://github.com/user-attachments/assets/1e96ba0e-0450-4eca-ba66-78f0165de10e)
 
 
 ⚠️ Note: Both settings must be off. Otherwise, the tool will not operate as expected.
@@ -29,6 +36,8 @@ Upon launching, an injector window will open. To gain access, enter one of the l
 
 In the menu, select one of the following options: BO6 Unlocker Tool BO6 Multiplayer Hacks BO6 Zombies Hacks Warzone Hacks Click Start Injection. After a successful injection, a confirmation message will appear: Injection Complete. Launch and Play
 
+![image](https://github.com/user-attachments/assets/8bd418b7-f4b4-4ffc-a477-5b0973356392)
+![image](https://github.com/user-attachments/assets/e21edd3f-0159-4f67-b36f-cda62744f91d)
 
 
 Start Black Ops 6 and enjoy the enhanced features! Windows Defender Settings In-game Screenshot Features Work in Progress! More features are continually being added. Check back for updates!

